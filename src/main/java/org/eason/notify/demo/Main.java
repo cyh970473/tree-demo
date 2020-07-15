@@ -1,7 +1,7 @@
 package org.eason.notify.demo;
 
 /**
- * @Desc:
+ * @Desc: 锁池、等待池
  * @DateTime: 2018/10/29 10:43
  * @Author chen
  * @Version 1.0
